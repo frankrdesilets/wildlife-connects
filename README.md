@@ -1,6 +1,6 @@
 # wildlife-connects
 
-Wildlife Connects is a full-stack web portal that was developed for <a href="https://www.texas-wildlife.org" target="_blank">Texas Wildlife Association</a> during a spring 2025 internship with FreeLikeYou, a company founded by a Southwestern University alumnus. I designed and implemented the platform in its entirety.
+Wildlife Connects is a full-stack web portal that was developed for [Texas Wildlife Association](https://www.texas-wildlife.org) during a spring 2025 internship with FreeLikeYou, a company founded by a Southwestern University alumnus. I designed and implemented the platform in its entirety.
 
 It is the intellectual property of FreeLikeYou and as such code cannot be shared. Rather, this document aims to showcase the impact and high-level details of the project.
 
