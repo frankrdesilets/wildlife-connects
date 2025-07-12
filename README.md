@@ -22,7 +22,7 @@ Laravel was used as the backend PHP framework due to its expansive feature set, 
 
 ### Front-end:
 
-Bootstrap was used at the front-end HTML and CSS framework.
+Bootstrap was used at the front-end HTML and CSS framework. Use was made of the grid system to ensure accessibility across a range of devices.
 
 ### Database:
 
