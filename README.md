@@ -1,14 +1,14 @@
 # wildlife-connects
 
-![manage-hunts](assets/images/manage-hunts.png)
-
-![setup](assets/images/setup.png)
-
 Wildlife Connects is a full-stack web portal that was developed for [Texas Wildlife Association](https://www.texas-wildlife.org) during a spring 2025 internship with FreeLikeYou, a company founded by a Southwestern University alumnus. I designed and implemented the platform in its entirety.
 
 It is the intellectual property of FreeLikeYou and as such code cannot be shared. Rather, this document aims to showcase the impact and high-level details of the project.
 
 *Note: All screenshots in this document were approved by FreeLikeYou to share. They were taken from a local development environment with fake accounts and information. Screenshots are located at the [bottom](#newsletter) of the document.*
+
+![manage-hunts](assets/images/manage-hunts.png)
+
+![setup](assets/images/setup.png)
 
 ## Description
 
