@@ -16,19 +16,19 @@ The portal is both internal and external. User accounts have member functionalit
 
 ## Technology
 
-### Back-end: 
+### Back-end
 
 Laravel was used as the backend PHP framework due to its expansive feature set, which includes MVC architecture, routing, robust security including authentication, Eloquent ORM, database migrations, and validation.
 
-### Front-end:
+### Front-end
 
 Bootstrap was used at the front-end HTML and CSS framework. Use was made of the grid system to ensure accessibility across a range of devices.
 
-### Database:
+### Database
 
 MySQL was used as the database management system. It was interacted with primarily through Laravel’s Eloquent ORM.
 
-### Cloud:
+### Cloud
 
 Laravel Cloud was used as the infrastructure and deployment platform due to its exclusive support and optimization for Laravel applications.
 
