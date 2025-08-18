@@ -30,7 +30,7 @@ Bootstrap was used at the front-end HTML and CSS framework. Use was made of the 
 
 ### Database
 
-MySQL was used as the database management system. It was interacted with primarily through Laravel’s Eloquent ORM.
+MySQL was used for data persistence. It was interacted with primarily through Laravel’s Eloquent ORM.
 
 ### Cloud
 
