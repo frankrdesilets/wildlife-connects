@@ -20,11 +20,11 @@ Within two months of the initial summer launch (the standard hunt application se
 
 ## Technology
 
-### Back-end
+### Backend
 
 Laravel was used as the backend PHP framework due to its expansive feature set, which includes MVC architecture, routing, robust security including authentication, Eloquent ORM, database migrations, and validation.
 
-### Front-end
+### Frontend
 
 Bootstrap was used at the front-end HTML and CSS framework. Use was made of the grid system to ensure accessibility across a range of devices.
 
