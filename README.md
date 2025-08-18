@@ -1,10 +1,10 @@
 # wildlife-connects
 
-Wildlife Connects is a full-stack web portal that was developed for [Texas Wildlife Association](https://www.texas-wildlife.org) during a spring 2025 internship with FreeLikeYou, a company founded by a Southwestern University alumnus. While I was officially a Software Engineering Intern, my role was more that of a contractor, as I led the technical side of the project in its entirety.
+Wildlife Connects is a full-stack web portal that was developed for [Texas Wildlife Association](https://www.texas-wildlife.org) during a spring 2025 internship with FreeLikeYou, a company founded by a Southwestern University alumnus. While I was contractually a Software Engineering Intern, my role was more aligned with that of a contractor, as I led the technical side of the project, from architecture to deployment, in its entirety.
 
 The platform is the intellectual property of FreeLikeYou and as such code cannot be shared. Rather, this document aims to showcase the impact and high-level details of the project.
 
-*Note: All screenshots in this document were approved by FreeLikeYou to share. They were taken from a local development environment with fake accounts and information. Screenshots are located at the [bottom](#newsletter) of the document.*
+*Note: All screenshots and information in this document were approved by FreeLikeYou to share. Screenshots were taken from a local development environment with fake accounts and information. Most screenshots are located at the [bottom](#newsletter) of the document.*
 
 ![manage-hunts](assets/images/manage-hunts.png)
 
@@ -15,6 +15,8 @@ The platform is the intellectual property of FreeLikeYou and as such code cannot
 The application automated and replaced Texas Wildlife Association's existing manual, email-based "Adult Learn to Hunt" application system, and streamlined workflows for over 800 members applying to hunts as well as for administrators reviewing and managing applications and supporting documents by providing an intuitive, centralized platform.
 
 The portal is both internal and external. User accounts have member functionality (apply to hunts, upload documents, etc.) and admin accounts have administrative abilities (manage land profiles and hunts, manage hunt applications, manage users and documents, etc.) in addition to normal member functionality. The only difference between a user and admin account is the dashboard, as users have a member dashboard and admins have an administrative dashboard (as such, all administrative controls are located in the admin dashboard). The rest of the platform is identical for both users and admins.
+
+Within two months of the initial summer launch (the standard hunt application season), there were 550+ individual applications submitted by 300+ users.
 
 ## Technology
 
