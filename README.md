@@ -12,7 +12,7 @@ The platform is the intellectual property of FreeLikeYou and as such code cannot
 
 ## Description
 
-The application automated and replaced Texas Wildlife Association's existing manual, email-based "Adult Learn to Hunt" application system, and streamlined workflows for over 800 members applying to hunts as well as for administrators reviewing and managing applications and supporting documents by providing an intuitive, centralized platform.
+The application automated and replaced Texas Wildlife Association's existing manual, email-based "Adult Learn to Hunt" application system, and streamlined workflows for over 300 members applying to hunts as well as for administrators reviewing and managing applications and supporting documents by providing an intuitive, centralized platform.
 
 The portal is both internal and external. User accounts have member functionality (apply to hunts, upload documents, etc.) and admin accounts have administrative abilities (manage land profiles and hunts, manage hunt applications, manage users and documents, etc.) in addition to normal member functionality. The only difference between a user and admin account is the dashboard, as users have a member dashboard and admins have an administrative dashboard (as such, all administrative controls are located in the admin dashboard). The rest of the platform is identical for both users and admins.
 
