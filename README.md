@@ -86,7 +86,7 @@ Note: Some sections in the left sidebar of the application will be developed in 
 
 ## Testing
 
-The platform was, of course, tested during development, but the majority of testing came from stakeholders at Texas Wildlife Association as they used the system, refined their ideas, and found bugs.
+The platform was, of course, tested during development, but the majority of testing came from stakeholders at Texas Wildlife Association as they used the system and refined their ideas.
 
 ## Newsletter
 
