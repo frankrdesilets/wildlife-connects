@@ -1,6 +1,6 @@
 # wildlife-connects
 
-Wildlife Connects is a full-stack web portal that was developed for [Texas Wildlife Association](https://www.texas-wildlife.org) (TWA) during a spring 2025 internship with FreeLikeYou, a company founded by a Southwestern University alumnus. While I was contractually a Software Engineering Intern, my role was more aligned with that of a contractor, as I led the technical side of the project, from architecture to deployment, in its entirety.
+Wildlife Connects is a full-stack web portal that was developed for [Texas Wildlife Association](https://www.texas-wildlife.org) (TWA) during a spring 2025 internship with FreeLikeYou, a company founded by a Southwestern University alumnus. While I was contractually a Software Engineering Intern, my role was more aligned with that of a contractor, as I owned the technical side of the project end-to-end, from architecture through deployment.
 
 The platform is the intellectual property of FreeLikeYou and as such code cannot be shared. Rather, this document aims to showcase the impact and high-level details of the project.
 
@@ -44,6 +44,7 @@ Google Cloud Platform was used for a Google Drive API integration, facilitating 
 
 Note: Some sections in the left sidebar of the application will be developed in a later release. As such, they are not included below.
 
+- Role-based access control distinguishing member and administrator capabilities
 -	Hunt creation and application system
 -	Land Profiles (representing specific properties that hunts can be hosted on)
 -	Document management (Google Drive integration)
